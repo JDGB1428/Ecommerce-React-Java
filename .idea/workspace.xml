@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c2ccc69b-0980-463c-9409-6c972f68abfb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/BaseEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/user.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/role.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceBackend/src/main/java/com/juan/ecommerceBackend/models/user.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
