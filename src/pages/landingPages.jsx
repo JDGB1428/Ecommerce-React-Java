@@ -1,9 +1,16 @@
 import React from 'react'
+import Footer from '../Components/Footer/Footer'
+import NavContainer from '../Components/Navbar/NavContainer'
+import SectionLandingpage from '../Components/Section/SectionLandingpage'
 
-const landingPages = () => {
+const LandingPages = () => {
   return (
-    <div>landingPages</div>
+    <>
+      <NavContainer/>
+      <SectionLandingpage/>
+      <Footer/>
+    </>
   )
 }
 
-export default landingPages
+export default LandingPages
