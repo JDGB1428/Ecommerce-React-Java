@@ -1,9 +1,10 @@
+import Rutas from "./services/Rutas";
 
 function App() {
   return (
-    <div>
-      <h1>Hola mundo</h1>
-    </div>
+    <>
+      <Rutas/>
+    </>
   );
 }
 
